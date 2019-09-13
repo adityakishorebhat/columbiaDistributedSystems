@@ -1,5 +1,5 @@
 # Assignment 0: Collaboration Policy & Git
-### Due: Friday Sep 14, 11:59:59pm
+### Due: Monday Sep 16, 11:59:59pm
 
 ## Introduction
 

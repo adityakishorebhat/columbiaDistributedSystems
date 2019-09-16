@@ -7,9 +7,9 @@ This assignment is mainly intended to emphasize the importance of the _no plagia
 
 ## Part I: Zero Tolerance on Plagiarism
 ### Reading
- SEAS has a short page on academic integrity, avaiable at [Academic Integrity](http://gradengineering.columbia.edu/academic-integrity-0).
+ SEAS has a short page on academic integrity, avaiable at [Academic Integrity](https://gradengineering.columbia.edu/academics/academic-integrity).
 
- Additionally, Columbia college has a list of behaviors that constitute [Academic Dishonesty](https://www.college.columbia.edu/academics/academicdishonesty).
+ Additionally, Columbia college has a list of behaviors that constitute [Academic Dishonesty](https://www.college.columbia.edu/honorcode).
 
  Carefully read those resources above. Please note that this class requires closely obeying the policy on academic integrity, and has zero tolerance on plagiarism for all assignments. For programming assignments, in particular, you must write all the code you hand in, except for code that we give you as part of the assignments. You are not allowed to look at anyone else's solution (including solutions on the Internet, if there are any), and you are not allowed to look at code from previous years. You may discuss the assignments with other students, but you may not write pseudocode together, look at or copy each other's code. Please do not publish your code or make it available to future students -- for example, please do not make your code visible on Github. 
 
@@ -29,7 +29,7 @@ This assignment is mainly intended to emphasize the importance of the _no plagia
 
 ```bash
 $ cd ~
-$ git clone https://github.com/Columbia-COMS-4113-Fall-18/assignments-myusername.git 4113
+$ git clone https://github.com/Columbia-COMS-4113-Fall-19/assignments-myusername.git 4113
 $ ls 4113
 collaboration_policy.txt
 readme.md
